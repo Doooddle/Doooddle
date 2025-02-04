@@ -1,5 +1,6 @@
 # 💫 About Me:
-I love cloud and designing database solutions
+Hello There. 
+I am Garrett, I like cloud and designing database solutions
 
 
 ## 🌐 Socials:
